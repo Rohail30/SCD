@@ -1,5 +1,3 @@
-# SCD-LAB
-
 # CSC 2126 Software Construction and Development
 
 ## Course Description
