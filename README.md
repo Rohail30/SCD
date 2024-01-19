@@ -19,3 +19,5 @@ The Software Construction and Development (SCD) course provides a comprehensive 
 **lec-2: Instagram Login page**
 
 **Lec-3: Virtual Environment**
+
+**Lec-4: Min/Max and Palindrome in Python**
