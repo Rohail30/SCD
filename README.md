@@ -21,3 +21,5 @@ The Software Construction and Development (SCD) course provides a comprehensive 
 **Lec-3: Virtual Environment**
 
 **Lec-4: Min/Max and Palindrome in Python**
+
+**Lec-5: Setting-Up Django**
