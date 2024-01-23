@@ -23,3 +23,8 @@ The Software Construction and Development (SCD) course provides a comprehensive 
 **Lec-4: Min/Max and Palindrome in Python**
 
 **Lec-5: Setting-Up Django**
+
+**Lec-6: Rendering JSON Data**
+
+**Lec-7: Render HTML**
+
