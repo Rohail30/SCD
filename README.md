@@ -24,7 +24,7 @@ The Software Construction and Development (SCD) course provides a comprehensive 
 
 **Lec-5: Setting-Up Django**
 
-**Lec-6: Rendering JSON Data**
+**Lec-6: Rendering JSON Data in Django**
 
-**Lec-7: Render HTML**
+**Lec-7: Rendering HTML in Django**
 
