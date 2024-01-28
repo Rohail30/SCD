@@ -28,3 +28,16 @@ The Software Construction and Development (SCD) course provides a comprehensive 
 
 **Lec-7: Rendering HTML in Django**
 
+**Lec-8: Express Setup**
+
+**Lec-8: Express GET/POST method**
+
+**Lec-9: Express PUT/PATCH/DELETE method**
+
+**Lec-10: Express methods implementation with postman**
+
+**Lec-11: Express middleware**
+
+**Lec-12: MongoDB setup**
+
+**Lec-12: MongoDB GET/POST/PUT/PATCH/DELETE method**
