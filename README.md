@@ -40,4 +40,4 @@ The Software Construction and Development (SCD) course provides a comprehensive 
 
 **Lec-12: MongoDB setup**
 
-**Lec-12: MongoDB GET/POST/PUT/PATCH/DELETE method**
+**Lec-13: MongoDB GET/POST/PUT/PATCH/DELETE method**
